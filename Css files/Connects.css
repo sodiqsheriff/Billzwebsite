@@ -1,0 +1,42 @@
+ 
+.herosubtext{
+    width: 100%;
+}
+.headtext{
+    text-align: center;
+    color: #582501;
+    font-size: 36px;  
+    font-weight: 600; 
+}
+#subheadtxt{
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  padding-left: 8%;
+  padding-right: 8%;
+}
+.subheadtext{
+    color: #556987;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    width:100%;
+    text-overflow: clip;
+    Line-height:24.87px;
+}
+.herosubimg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+#herosubimg {
+  max-width: 1200px;
+  width: 100%;
+  padding-top: 60px;
+  padding-bottom: 50px;
+  padding-left: 5%;
+  padding-right: 5%;
+}

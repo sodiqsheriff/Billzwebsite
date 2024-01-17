@@ -1,0 +1,102 @@
+.service{
+  background-color: gainsboro;
+  color: #BA4416;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+  width: 82px;
+  height: 41px;
+  padding: 10px;
+  line-height: 21px;
+  border-radius:20px;
+  font-family: Poppins;
+}
+.subsection{
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+.service-btn{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 40px;
+}
+.toptext{
+  text-align: center;
+  color: #582501;
+  font-size: 36px; 
+  font-weight: 600;
+  font-family:Poppins;
+}
+.servicesubtext{
+  color:  #556987;
+  font-size: 18px;
+  font-weight:500;
+  width:100%;
+  Line-height:28.5px;
+  text-align: center;
+  word-spacing: normal;
+  padding-left: 6em;
+  padding-right: 6em;
+}
+.servesubtxt{
+  width: 100%;
+  text-overflow: clip;
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+
+}
+.content-section{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.textcontent{
+  color: #556987;
+  width: 296px;
+  gap:10px;
+  column-gap: 41px;
+  text-align: center;
+}
+.textimg{
+  display: flex;
+  justify-content: center;
+}
+.txtcontainer{
+  padding-bottom: 30px;
+}
+.imgtext{
+  text-align: center;
+  text-transform: capitalize;
+  font-family: Poppins;
+  line-height: 21px;
+  width: 100%;
+}
+.topimgtext{
+  font-weight: 700;
+  font-size:14px;
+  padding-top: 8px;
+  padding-bottom: 21px;
+}
+.desctext{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.imgtxt{
+  font-size:14px;
+  font-weight: 500;
+  line-height: 21px;
+  width: 100%;
+  text-overflow: clip;
+}
+.imagecontent{
+  border-radius: 29px;
+  width: 26.187em;
+}

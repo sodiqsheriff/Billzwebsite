@@ -1,0 +1,67 @@
+.Applink{
+    display: flex;
+    background-color:#FC6B02;
+    padding-left:;
+    padding-right:0px;
+    height: 323px;
+}
+.Applicationlink{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.applinking{
+    display: block;
+    flex-direction: column;
+}
+.right-arrow{
+    padding-top: 50px;
+    
+}
+.left-arrow{
+    display: flex;
+    justify-content: right;
+    padding-top: 70px;
+}
+.apptext{
+font-family: Poppins;
+font-size: 38px;
+font-weight: 900;
+line-height: 50px;
+padding-bottom: 20px;
+letter-spacing: 0em;
+text-align: center;
+color: white;
+}
+.appsubtxt{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+.appsubtext{
+ width: 100%;
+ text-overflow:clip;
+ font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+color: white;
+}
+.applicationstorelink{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+.actuallink{
+    background-color:#57200A;
+    border-radius: 4.95px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+
+}

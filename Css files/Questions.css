@@ -1,0 +1,97 @@
+.Question{
+  background-color: #FC6B02;
+  height: 513px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  gap: 75px;
+  margin-bottom: 61px;
+}
+.Questionone{
+  max-width: 456px;
+  max-height: 265px;
+  height: 100%;
+  width: 100%;
+
+  top: 81px;
+  left: 79px;
+  
+}
+.faq{
+font-family: Poppins;
+font-size: 12px;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: center;
+text-transform: uppercase;
+background-color:#953711;
+text-shadow: #953711;
+width:100%;
+height: 100%;
+max-width: 40px;
+max-height: 22px;
+padding: 2px, 8px, 2px, 8px;
+border-radius: 36px;
+gap: 2px;
+
+}
+.faqhd{
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  text-align: left;
+  padding-top: 15px;
+}
+.faqdetails{
+  padding-top: 25px;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+letter-spacing: 0em;
+text-align: left;
+text-overflow: clip;
+width: 100%;
+}
+.Questiontwo{
+  max-width: 536px;
+  width: 100%;
+}
+.discounted{
+  padding-top: 0;
+  padding-bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 50px;
+}
+
+.discountedplans{
+  display: block;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+#icon{
+  cursor: pointer;
+}
+#content{
+  display: none;
+  padding-top: 0;
+}
+.contentsection{
+  padding-top: 15px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+letter-spacing: 0em;
+text-align: left;
+width: 100;
+text-overflow: clip;
+}
